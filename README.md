@@ -1,0 +1,1 @@
+This repository contains a JavaScript function that demonstrates a common error when dealing with null values and type coercion. The original function 'foo' may throw errors or produce unexpected results if the inputs are not numbers or are null. The solution improves the function by explicitly checking the input types and handling potential errors more gracefully.
